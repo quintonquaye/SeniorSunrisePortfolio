@@ -11,3 +11,4 @@ My Portfolio on SeniorSunrise
 | 1 | [Product Brief](Medication-Manager/docs/01-Product-Brief.md) |
 | 2 | [Requirements](Medication-Manager/docs/02-Requirements.md) |
 | 3 | [Project Plan](Medication-Manager/docs/03-Project-Plan.md) |
+| 4 | [Technical Plan](Medication-Manager/docs/04-Technical-Plan.md) |

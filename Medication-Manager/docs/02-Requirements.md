@@ -117,7 +117,7 @@ When I tap on the medication, it should open and show the correct entered medica
 ### Story 3 — Local Notification Reminder
 
 ```
-As a I wan to be able to add a medication to the app, when a new medication is added I can also add a reminder time for when a medication dose is due for taking.
+As a senior I want to be able to add a medication to the app, when a new medication is added I can also add a reminder time for when a medication dose is due for taking.
 
 when the time arrives for that medication dose, whether i'm in the app, browsing another app or my device is off, the app will display the medication notification.
 
