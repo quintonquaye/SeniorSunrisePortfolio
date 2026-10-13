@@ -72,7 +72,10 @@ So that I can track each one individually with confidence, without error of whic
 Given I am on the Medications screen
 
 When I tap the "Add Medication" button
-And I enter a valid medication name, dosage, at least one frequency of each dose, the times i want for each dose reminder, (optional) pill count, (optional) doctor name, instructions and tap "save"
+The Add Medication page should appear with medication inputs ready for me to input.
+I enter a valid medication name, dosage, at least one frequency of each dose, the times i want for each dose reminder, (optional) pill count, (optional) doctor name, instructions and tap "save"
+
+The Add Medication page disappears and returns to the medication list page
 
 Then the medication appears in my list of medications
 And a push notification is scheduled for the reminding times
