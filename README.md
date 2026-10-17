@@ -12,3 +12,4 @@ My Portfolio on SeniorSunrise
 | 2 | [Requirements](Medication-Manager/docs/02-Requirements.md) |
 | 3 | [Project Plan](Medication-Manager/docs/03-Project-Plan.md) |
 | 4 | [Technical Plan](Medication-Manager/docs/04-Technical-Plan.md) |
+| 5 | [System Design](Medication-Manager/docs/05-System-Design.md) |
