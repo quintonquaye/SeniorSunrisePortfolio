@@ -1,5 +1,6 @@
 # SeniorSunrisePortfolio
-My Portfolio on SeniorSunrise
+My example portfolio on Senior Sunrise app.
+The documentation used is an example for interview purposes.
 
 ## Overview
 The *Medication Manager* is a feature of the *Senior Sunrise* mobile application, a Flutter-based health companion app for senior users (65+).
